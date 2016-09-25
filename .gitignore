@@ -1,0 +1,29 @@
+*~
+
+# python compiled files
+*.pyc
+*.pyo
+
+# Django stuff
+*.pot
+*.log
+
+# development files
+local_settings.py
+
+# production files
+production_settings.py
+static/admin/
+
+# Databases
+*.sqlite3
+*.db
+
+# trained models
+data/*
+
+# temporaty notes in development
+dev_notes.txt
+
+# testing files
+training.csv

@@ -1,0 +1,1 @@
+This is an application for building an Naive Bayes model. Training data needs to be provided and a pickled file of the model is stored. An application can then make predictions using that model via a REST API.
